@@ -1,2 +1,0 @@
-# friendlyassistanceendpoint
-Begin app
